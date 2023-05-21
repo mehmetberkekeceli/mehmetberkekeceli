@@ -1,5 +1,5 @@
 - Hello 👋
-- 💻 I'm currently working on Java and JavaScript
-- 🌱 I'm currently using JavaSpring and JSReact in my private repositories
+- 💻 I'm currently working on .NET & React & Angular
+- 🌱 I'm currently using Java(Spring), JSReact, TypeScript, Angular, C#(.NET) in my private repositories
 - 📚 I continue my education to improve myself
 - 📫 How to reach me: https://t.me/mbrkcl
