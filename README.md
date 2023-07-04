@@ -15,7 +15,7 @@
 <h2 align="center">⚡ Languages & Frameworks & Tools & Abilities ⚡</h2>
 <br>
 <p align="center">
-  <code><img title="Java" height="25"></code>	
+  <code><title="Java" height="25"></code>	
   <code><img title="C#" height="25"></code>
   <code><img title=".NET" height="25"></code>
   <code><img title="Spring" height="25"></code>
