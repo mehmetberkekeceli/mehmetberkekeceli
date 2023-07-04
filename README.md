@@ -15,7 +15,7 @@
 <h2 align="center">⚡ Languages & Frameworks & Tools & Abilities ⚡</h2>
 <br>
 <p align="center">
-  <code><title="Java" height="25"></code>	
+  <code><img title="Java" height="25"></code>	
   <code><img title="C#" height="25"></code>
   <code><img title=".NET" height="25"></code>
   <code><img title="Spring" height="25"></code>
@@ -52,7 +52,7 @@
   <a href="#">
     <h2>🏆 Github Profile Trophy 🏆</h2>    
         <img width=1000
-      src="https://github-profile-trophy.vercel.app/?username=yaserdemet&column=8&theme=onedark&no-frame=true&margin-w=15" />    
+      src="https://github-profile-trophy.vercel.app/?username=mehmetberkekeceli&column=8&theme=onedark&no-frame=true&margin-w=15" />    
   </a>
 </div> 
 
@@ -66,8 +66,8 @@
 <h3 align="left">📫 &nbsp;Feel Free to Contact me.....</h3>
 
 <p align="center">
-	<a href="https://github.com/yaserdemet"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/yaser-demet-42731421b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://github.com/mehmetberkekeceli"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/mehmet-berke-ke%C3%A7eli-300576177/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	
 </p>
 
@@ -76,6 +76,6 @@
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{yaserdemet}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mehmetberkekeceli}/count.svg" /></p> 
 <br>
 </div>
