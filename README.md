@@ -14,21 +14,6 @@
 
 <h2 align="center">⚡ Languages & Frameworks & Tools & Abilities ⚡</h2>
 <br>
-<p align="center">
-  <code><p title="Java" height="25"></code>	
-  <code><img title="C#" height="25"></code>
-  <code><img title=".NET" height="25"></code>
-  <code><img title="Spring" height="25"></code>
-  <code><img title="Angular" height="25"></code>
-  <code><img title="Javascript" height="25" src="img/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="img/html5.svg"></code>
-  <code><img title="CSS" height="25" src="img/css.svg"></code>
-  <code><img title="SASS" height="25" src="img/sass.svg"></code>
-  <code><img title="React" height="25" src="img/react-original.svg"></code>
-  <code><img title="Git" height="25" src="img/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="img/postgresql.svg"></code>
-  <code><img title="GitHub" height="25" src="img/github.svg"></code>
-</p>
 <hr>
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
