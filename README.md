@@ -1,9 +1,9 @@
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Yaser+DEMET;Welcome+to+my+Github+profile;I'm+React+Developer...;)](https://git.io/typing-svg)
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Mehmet+Berke+KEÇELİ;Welcome+to+my+Github+profile;I'm+FullStack+Developer...;)](https://git.io/typing-svg)
 <p align="center">
 <p><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64" align="center"><b>Connect with me:</b></p>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaser-demet-42731421b/) 
-<a href="https://yaserdemet.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=yaserdemet" alt="visitor counter"  height="28.5"/>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-berke-ke%C3%A7eli-300576177/) 
+<a href="https://mehmetberkekeceli.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=mehmetberkekeceli" alt="visitor counter"  height="28.5"/>
 </p>
 
  <p align="center">
@@ -15,25 +15,25 @@
 <h2 align="center">⚡ Languages & Frameworks & Tools & Abilities ⚡</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="img/python-original.svg"></code>
-  <code><img title="Django" height="25" src="img/django.png"></code>
+  <code><img title="Java" height="25"></code>	
+  <code><img title="C#" height="25"></code>
+  <code><img title=".NET" height="25"></code>
+  <code><img title="Spring" height="25"></code>
   <code><img title="Javascript" height="25" src="img/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="img/html5.svg"></code>
   <code><img title="CSS" height="25" src="img/css.svg"></code>
   <code><img title="SASS" height="25" src="img/sass.svg"></code>
   <code><img title="React" height="25" src="img/react-original.svg"></code>
-  <code><img title="Mui" height="25" src="img/mui.png"></code>
   <code><img title="Git" height="25" src="img/git-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="img/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="img/vscode.png"></code>
   <code><img title="GitHub" height="25" src="img/github.svg"></code>
 </p>
 <hr>
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"><b>Github Stats :</b>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yaserdemet&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaserdemet&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=mehmetberkekeceli&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetberkekeceli&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaserdemet&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 
