@@ -22,15 +22,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetberkekeceli&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetberkekeceli&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
-
-
-<br>
-<div align="center">
-  <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=mehmetberkekeceli&theme=react-dark" />
-  </a>
-</div>
-
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
