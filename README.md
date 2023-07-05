@@ -1,15 +1,14 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Mehmet+Berke+KEÇELİ;Welcome+to+my+Github+profile;I'm+FullStack+Developer...;)](https://git.io/typing-svg)
 <p align="center">
+	 Hello 👋
+- 💻 I'm currently working on .NET & React & Angular
+- 🌱 I'm currently using C#(.NET), Java(Spring), React, Angular, TypeScript in my private repositories
+- 📚 I continue my education to improve myself
+- 📫 How to reach me: https://t.me/mbrkcl
 <p><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64" align="center"><b>Connect with me:</b></p>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-berke-ke%C3%A7eli-300576177/) 
 <a href="https://github.com/mehmetberkekeceli" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=mehmetberkekeceli" alt="visitor counter"  height="28.5"/>
-</p>
-
- <p align="center">
-
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="800" height="400">
-  
 </p>
 
 <h2 align="center">⚡ Languages & Frameworks & Tools & Abilities ⚡</h2>
