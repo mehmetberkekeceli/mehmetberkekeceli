@@ -31,16 +31,6 @@
   </a>
 </div>
 
- 
-
- <div align="center">
-  <a href="#">
-    <h2>🏆 Github Profile Trophy 🏆</h2>    
-        <img width=1000
-      src="https://github-profile-trophy.vercel.app/?username=mbrkcl&column=8&theme=onedark&no-frame=true&margin-w=15" />    
-  </a>
-</div> 
-
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
