@@ -20,14 +20,14 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mehmetberkekeceli&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetberkekeceli&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaserdemet&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetberkekeceli&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 
 
 <br>
 <div align="center">
   <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=yaserdemet&theme=react-dark" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=mehmetberkekeceli&theme=react-dark" />
   </a>
 </div>
 
