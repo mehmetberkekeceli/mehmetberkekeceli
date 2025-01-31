@@ -2,7 +2,7 @@
 <p align="center">
 	 Hello 👋
 	<br>
-- 💻 I'm currently working on .NET & React & Angular
+- 💻 I'm currently working on Java & React
 	<br>
 - 🌱 I'm currently using C#(.NET), Java(Spring), React, Angular, TypeScript in my private repositories
 	<br>
